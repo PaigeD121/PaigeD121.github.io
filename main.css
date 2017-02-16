@@ -9,7 +9,8 @@ h1 {
 
 img {
  width: 200px;
- border: 3px solid virdian;
+ float: right;
+ border: 3px solid teal;
   /*
   border-style: solid;
   border-size: 3px;
